@@ -1,14 +1,14 @@
 ### よろしくお願いします,雪ノ下 雪乃です.
-<img  src="https://github-readme-stats.vercel.app/api?username=KaguraTart&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff"  alt="KaguraTart's GitHub stats" align="right" />
-c  
+<img  src="https://github-readme-stats.vercel.app/api?username=YukinonCC&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff"  alt="YukinonCC's GitHub stats" align="right" />
+
 - :hammer_and_pick: Chinese/English
 
-- :keyboard: [SUMO 中文文档](https://github.com/KaguraTart/SUMO-ch-doc) Editor 
+- :keyboard: [League of Legends](https://leagueoflegends.com/) gamer 
 
 - :computer: ROG Zephyrus G14 2020
 
 
-- :email: [![Send me Email](https://img.shields.io/static/v1?label=email&message=kaguratart@163.com&color=blue&style=flat-square)](mailto:yukinon@superchat.moe)
+- :email: [![Send me Email](https://img.shields.io/static/v1?label=email&message=yukinon@superchat.moe&color=blue&style=flat-square)](mailto:yukinon@superchat.moe)
 
 
 
