@@ -7,13 +7,12 @@
 
 - :computer: ROG Zephyrus G14 2020
 
-
 - :email: [![Send me Email](https://img.shields.io/static/v1?label=email&message=yukinon@superchat.moe&color=blue&style=flat-square)](mailto:yukinon@superchat.moe)
 
-
+- 💬 [![Twitter][link-twitter]](https://twitter.com/YukinonCC)  
 
 <!--
-**KaguraTart/KaguraTart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Yukinoncc/YukinonCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <img src="https://github-readme-stats.vercel.app/api?username=KaguraTart&count_private=true&show_icons=true" alt="KaguraTart's GitHub stats" height="190px" /> 
 Here are some ideas to get you started:
@@ -27,3 +26,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[link-twitter]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ftwitter%2FYukinonCC&query=count&color=1da1f2&label=Twitter&labelColor=282c34&logo=twitter&suffix=+follows&cacheSeconds=3600  
