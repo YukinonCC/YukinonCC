@@ -1,4 +1,4 @@
-### よろしくお願いします,雪ノ下 雪乃です.
+### よろしくお願いします、雪ノ下 雪乃です。
 <img  src="https://github-readme-stats.vercel.app/api?username=YukinonCC&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff"  alt="YukinonCC's GitHub stats" align="right" />
 
 - :hammer_and_pick: Chinese/English
